@@ -1,0 +1,14 @@
+/Users/alexandresamadashvili/Documents/FileIndexingSystem/AgentB/obj/Debug/net9.0/AgentB.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alexandresamadashvili/Documents/FileIndexingSystem/AgentB/obj/Debug/net9.0/AgentB.AssemblyInfoInputs.cache
+/Users/alexandresamadashvili/Documents/FileIndexingSystem/AgentB/obj/Debug/net9.0/AgentB.AssemblyInfo.cs
+/Users/alexandresamadashvili/Documents/FileIndexingSystem/AgentB/obj/Debug/net9.0/AgentB.csproj.CoreCompileInputs.cache
+/Users/alexandresamadashvili/Documents/FileIndexingSystem/AgentB/bin/Debug/net9.0/AgentB
+/Users/alexandresamadashvili/Documents/FileIndexingSystem/AgentB/bin/Debug/net9.0/AgentB.deps.json
+/Users/alexandresamadashvili/Documents/FileIndexingSystem/AgentB/bin/Debug/net9.0/AgentB.runtimeconfig.json
+/Users/alexandresamadashvili/Documents/FileIndexingSystem/AgentB/bin/Debug/net9.0/AgentB.dll
+/Users/alexandresamadashvili/Documents/FileIndexingSystem/AgentB/bin/Debug/net9.0/AgentB.pdb
+/Users/alexandresamadashvili/Documents/FileIndexingSystem/AgentB/obj/Debug/net9.0/AgentB.dll
+/Users/alexandresamadashvili/Documents/FileIndexingSystem/AgentB/obj/Debug/net9.0/refint/AgentB.dll
+/Users/alexandresamadashvili/Documents/FileIndexingSystem/AgentB/obj/Debug/net9.0/AgentB.pdb
+/Users/alexandresamadashvili/Documents/FileIndexingSystem/AgentB/obj/Debug/net9.0/AgentB.genruntimeconfig.cache
+/Users/alexandresamadashvili/Documents/FileIndexingSystem/AgentB/obj/Debug/net9.0/ref/AgentB.dll
