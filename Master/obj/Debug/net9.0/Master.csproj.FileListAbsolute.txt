@@ -1,0 +1,14 @@
+/Users/alexandresamadashvili/Documents/FileIndexingSystem/master/bin/Debug/net9.0/Master
+/Users/alexandresamadashvili/Documents/FileIndexingSystem/Master/bin/Debug/net9.0/Master.deps.json
+/Users/alexandresamadashvili/Documents/FileIndexingSystem/Master/bin/Debug/net9.0/Master.runtimeconfig.json
+/Users/alexandresamadashvili/Documents/FileIndexingSystem/master/bin/Debug/net9.0/Master.dll
+/Users/alexandresamadashvili/Documents/FileIndexingSystem/master/bin/Debug/net9.0/Master.pdb
+/Users/alexandresamadashvili/Documents/FileIndexingSystem/master/obj/Debug/net9.0/Master.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alexandresamadashvili/Documents/FileIndexingSystem/master/obj/Debug/net9.0/Master.AssemblyInfoInputs.cache
+/Users/alexandresamadashvili/Documents/FileIndexingSystem/master/obj/Debug/net9.0/Master.AssemblyInfo.cs
+/Users/alexandresamadashvili/Documents/FileIndexingSystem/master/obj/Debug/net9.0/Master.csproj.CoreCompileInputs.cache
+/Users/alexandresamadashvili/Documents/FileIndexingSystem/master/obj/Debug/net9.0/Master.dll
+/Users/alexandresamadashvili/Documents/FileIndexingSystem/master/obj/Debug/net9.0/refint/Master.dll
+/Users/alexandresamadashvili/Documents/FileIndexingSystem/master/obj/Debug/net9.0/Master.pdb
+/Users/alexandresamadashvili/Documents/FileIndexingSystem/Master/obj/Debug/net9.0/Master.genruntimeconfig.cache
+/Users/alexandresamadashvili/Documents/FileIndexingSystem/Master/obj/Debug/net9.0/ref/Master.dll
